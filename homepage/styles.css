@@ -1,0 +1,118 @@
+#chinatown{
+    width: 700px;
+}
+.center{
+    text-align: center;
+}
+
+
+
+#essay{
+    text-align:left;
+    text-indent: 20px;
+    line-height: 1.8;
+    font-family: "Special Elite", system-ui;
+}
+
+
+#ice{
+    width: 600px;
+    display: block;
+    margin-left: 20px;
+    float: left;
+    margin-right: 5px;
+
+}
+
+
+.china{
+
+    text-align: center;
+
+    font-size: 20px;
+    line-height: 1.8;
+
+}
+
+.icetitle{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 140px;
+}
+
+body{
+     font-family: "Special Elite", system-ui;
+}
+
+#landmarks{
+     width: 700px;
+
+}
+.center{
+    text-align: center;
+}
+
+
+#mei{
+     width: 750px;
+    display: block;
+    margin-left: 80px;
+    float: right;
+    margin-right: 20px;
+}
+
+.meiT{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+.meiP{
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+#park{
+    width: 750px;
+    display: block;
+    margin-right: 80px;
+    float: left;
+    margin-left: 20px;
+}
+
+.parkT{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+.parkP{
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+
+#index{
+  width: 700px;
+  display: block;
+  margin: 0 auto;
+}
+.center{
+    text-align: center;
+    font-family: "Special Elite", system-ui;
+}
+
+
+#lion{
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.eventP{
+    font-size: 20px;
+    line-height: 1.8;
+    text-align: center;
+}
+
